@@ -2,6 +2,7 @@ Data Professionals Survey Breakdown Dashboard | Power BI
 This dashboard presents a comprehensive breakdown of a survey conducted among data professionals. It offers valuable insights into various aspects of their careers and preferences.
 
 Key Insights:
+
 Country of Survey Takers: The survey respondents are from various countries, prominently featuring the United States, India, Canada, and the United Kingdom.
 Favorite Programming Language: Python emerges as the most favored programming language among data professionals, followed by other languages such as JavaScript, C/C++, and Java.
 Average Salary by Job Title: The average salaries for different job titles within the data profession are depicted, highlighting the earning potential for roles like Data Scientist, Data Engineer, and Data Analyst.
